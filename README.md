@@ -10,7 +10,7 @@ Thankfully, significant investments are being made to improve building efficienc
 In this competition, you’ll develop accurate models of metered building energy usage in the following areas: chilled water, electric, hot water, and steam meters. The data comes from over 1,000 buildings over a three-year timeframe. With better estimates of these energy-saving investments, large scale investors and financial institutions will be more inclined to invest in this area to enable progress in building efficiencies.
 
 ## Data Description
-Data files can be downloaded from [here] (https://www.kaggle.com/c/ashrae-energy-prediction/data)
+Data files can be downloaded from [Here](https://www.kaggle.com/c/ashrae-energy-prediction/data)
 
 ### train.csv
 * building_id - Foreign key for the building metadata.
@@ -42,7 +42,7 @@ The submission files use row numbers for ID codes in order to save space on the 
 * timestamp - Timestamps for the test data period
 
 ## Evaluation Criteria
-The evaluation metric for this competition is [Root Mean Squared Logarithmic Error] (https://stats.stackexchange.com/questions/56658/how-do-you-interpret-rmsle-root-mean-squared-logarithmic-error) .
+The evaluation metric for this competition is [RMSLE](https://stats.stackexchange.com/questions/56658/how-do-you-interpret-rmsle-root-mean-squared-logarithmic-error)
 
 ## Leaderboard
 * [Private LB](https://www.kaggle.com/c/ashrae-energy-prediction/leaderboard) 
