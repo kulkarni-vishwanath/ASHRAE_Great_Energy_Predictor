@@ -10,6 +10,8 @@ Thankfully, significant investments are being made to improve building efficienc
 In this competition, you’ll develop accurate models of metered building energy usage in the following areas: chilled water, electric, hot water, and steam meters. The data comes from over 1,000 buildings over a three-year timeframe. With better estimates of these energy-saving investments, large scale investors and financial institutions will be more inclined to invest in this area to enable progress in building efficiencies.
 
 ## Data Description
+Data files can be downloaded from [here] (https://www.kaggle.com/c/ashrae-energy-prediction/data)
+
 ### train.csv
 * building_id - Foreign key for the building metadata.
 * meter - The meter id code. Read as {0: electricity, 1: chilledwater, 2: steam, 3: hotwater}. Not every building has all meter types.
