@@ -45,5 +45,5 @@ The submission files use row numbers for ID codes in order to save space on the 
 The evaluation metric for this competition is [RMSLE](https://stats.stackexchange.com/questions/56658/how-do-you-interpret-rmsle-root-mean-squared-logarithmic-error)
 
 ## Leaderboard
-* [Private LB](https://www.kaggle.com/c/ashrae-energy-prediction/leaderboard) 
-* [Public LB](https://www.kaggle.com/c/ashrae-energy-prediction/leaderboard) 
+* [Private LB](https://www.kaggle.com/c/ashrae-energy-prediction/leaderboard) - 1702/3641
+* [Public LB](https://www.kaggle.com/c/ashrae-energy-prediction/leaderboard) - 1645/3641
